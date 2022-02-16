@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ekanpat
 - 👀 I’m interested in algorithms & other financial data stuff
 - 🌱 I’m currently learning JS
-- 💞️ I’m looking to collaborate on various projects preferably financial services and sports.
+- 💞️ I’m looking to collaborate on various projects preferably financial services and health sector.
 - 📫 How to reach me? Just chek my bio and send me an email!
 
 <!---
