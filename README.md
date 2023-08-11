@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Ekanpat
-- 👀 I’m interested in algorithms & other financial data stuff. I am also a cloud computing enthusiast!
-- 🌱 I’m currently learning JS
+- 👋 Hi, I’m Patrick
+- 👀 I’m interested in algorithms and data analysis. I am also an aspiring Cloud Architect and tech enthusiast!
+- 🌱 I’m currently learning JS and advanced Python programming.
 - 💞️ I’m looking to collaborate on various projects preferably financial services and health sector.
 - 📫 How to reach me? Just chek my bio and send me an email!
 
