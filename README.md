@@ -1,4 +1,3 @@
-- 👋 Hi, I’m Patrick
 - 👀 I’m Microsoft 365 Cloud Architect and tech enthusiast!
 - 🌱 I’m currently learning JS and advanced Python programming during my free time.
 - 💞️ I’m looking to collaborate on various projects preferably financial services.
