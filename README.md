@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Patrick
-- 👀 I’m interested in algorithms and data analysis. I am also an aspiring Cloud Architect and tech enthusiast!
-- 🌱 I’m currently learning JS and advanced Python programming.
-- 💞️ I’m looking to collaborate on various projects preferably financial services and health sector.
+- 👀 I’m Microsoft 365 Cloud Architect and tech enthusiast!
+- 🌱 I’m currently learning JS and advanced Python programming during my free time.
+- 💞️ I’m looking to collaborate on various projects preferably financial services.
 - 📫 How to reach me? Just chek my bio and send me an email!
 
 <!---
